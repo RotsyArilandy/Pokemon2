@@ -1,4 +1,4 @@
-package histoire;
+package Personnages;
 import java.util.Random;
 import java.util.random.*;
 
@@ -6,7 +6,7 @@ public class Pokemon0 {
 	//Attributs
 	private String nom;
 	private int niveau;
-	private int hp;
+	protected int hp;
 	private int atk;
 	
 	//Constructeurs

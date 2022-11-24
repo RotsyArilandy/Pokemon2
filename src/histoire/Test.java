@@ -1,5 +1,7 @@
 package histoire;
 
+import Personnages.Pokemon0;
+
 public class Test{
 	public static void main(String [] args) {
 		System.out.println("\nTEST POKEMON0\n");
