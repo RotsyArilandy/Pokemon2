@@ -54,7 +54,7 @@ public class Pokemon0 {
 
 	@Override
 	public String toString() {
-		return "Je m'appelle "+ nom +"! \n je suis de niveau "+ niveau+" \n j'ai "+ hp+"points de vie \n mon attaque de base est "+ atk;
+		return "Je m'appelle "+ nom +"! \n je suis de niveau "+ niveau+" \n j'ai "+ hp+" points de vie \n mon attaque de base est "+ atk;
 	}
 	
 	public void log(String msg) {
