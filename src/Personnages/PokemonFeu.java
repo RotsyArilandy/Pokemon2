@@ -2,7 +2,7 @@ package Personnages;
 
 public class PokemonFeu extends Pokemon{
 
-	public PokemonFeu(String nom, Type type) {
+	public PokemonFeu(String nom) {
 		super(nom, Type.Plante);
 		// TODO Auto-generated constructor stub
 	}
